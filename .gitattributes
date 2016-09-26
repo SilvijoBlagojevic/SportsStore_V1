@@ -1,3 +1,4 @@
 SportsStore.WebUI/scripts/* linguist-vendored
 SportStore.Domain/Scripts/* linguist-vendored
 SportStore.Domain/* linguist-vendored
+packages/* linguist-vendored
