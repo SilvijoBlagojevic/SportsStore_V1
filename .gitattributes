@@ -1,7 +1,4 @@
-SportsStore_V1/SportsStore.WebUI/Scripts/* linguist-vendored
-SportsStore_V1/SportStore.Domain/Scripts/* linguist-vendored
-SportsStore_V1/SportStore.Domain/* linguist-vendored
-SportsStore_V1/packages/* linguist-vendored
-SportsStore_V1/SportsStore.WebUI/Views/* linguist-vendored
-SportsStore_V1/packages/* linguist-vendored
-SportStore.Domain/scripts/* linguist-vendored
+SportStore.Domain/Scripts/* linguist-vendored
+SportStore.Domain/* linguist-vendored
+SportsStore.WebUI/Views/* linguist-vendored
+
